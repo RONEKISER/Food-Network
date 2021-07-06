@@ -42,7 +42,44 @@ body{
       text-align: center;
 
 }
+#last-food{
+      display: flex;
+      padding: 5%;
+     
+      
+}
+.fourth-food{
+      box-shadow: 10px 10px 20px gray;
+      width: 30%;
+      margin:5%;
+      padding-top: 20%;
+      padding-left: 2%;
+      border-radius: 15px;
+      background-image: url(images/Project\ Cover.png);
+      background-repeat: no-repeat;
+      background-size: 90%;
+      background-position: top;
+      
+      
+}
+footer{
+      text-align: center;
+      background-color:gray;
+      padding: 10px;
+      border-radius: 10px;
+     
+}
+#orange{
+      color: orange;
+}
+#gray{
+      color: gray;
+}
 
 
 
+
+      
+     
+     
 
